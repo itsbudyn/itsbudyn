@@ -1,6 +1,7 @@
-# Hello!
+# 👋 Hello!
 
-👋 I’m @itsbudyn  
+I’m @itsbudyn  
+Final year Cybersecurity Student (B. Eng.)  
 Spoken languages: 🇵🇱 🇬🇧
 
 - ⌨️ I code in:
