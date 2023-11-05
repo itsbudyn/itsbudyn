@@ -1,8 +1,22 @@
-- 👋 Hi, I’m @itsbudyn
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+# Hello!
+
+👋 I’m @itsbudyn  
+Spoken languages: 🇵🇱 🇬🇧
+
+- ⌨️ I code with:
+  - Python
+  - C++
+
+- 📫 Reach me:
+  - Discord: itsbudyn
+  - E-Mail: itsbudyn@proton.me
+
+- 👀 Interests:
+  - Programming
+  - Technology
+  - Cybersecurity
+  - Modern history
+  - Gaming
 
 <!---
 itsbudyn/itsbudyn is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
