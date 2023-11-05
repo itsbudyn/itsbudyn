@@ -10,14 +10,6 @@ Spoken languages: 🇵🇱 🇬🇧
 - 📫 Reach me:
   - Discord: itsbudyn
   - E-Mail: itsbudyn@proton.me
-
-- 👀 Interests:
-  - Programming
-  - Technology
-  - Cybersecurity
-  - Modern history
-  - Gaming
-
 <!---
 itsbudyn/itsbudyn is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
