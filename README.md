@@ -3,7 +3,7 @@
 👋 I’m @itsbudyn  
 Spoken languages: 🇵🇱 🇬🇧
 
-- ⌨️ I code with:
+- ⌨️ I code in:
   - Python
   - C++
 
