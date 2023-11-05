@@ -1,7 +1,7 @@
 # 👋 Hello!
 
 I’m @itsbudyn  
-Final year Cybersecurity Student (B. Eng.)  
+Final year Data Security Student (B. Eng.)  
 Spoken languages: 🇵🇱 🇬🇧
 
 - ⌨️ I code in:
