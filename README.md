@@ -1,14 +1,14 @@
 # 👋 Hello!
 
-I’m @itsbudyn  
-Final year Data Security Student (B. Eng.)  
-Spoken languages: 🇵🇱 🇬🇧
+### I’m @itsbudyn  
+🎓 Final year Data Security Student (B. Eng.)  
+🌐 Spoken languages: 🇵🇱 🇬🇧
 
-### - ⌨️ I code in:
+### ⌨️ I code in:
   - Python
   - C++
 
-### - 📫 Reach me:
+### 📫 Reach me:
   - Discord: itsbudyn
   - E-Mail: itsbudyn@proton.me
 ---
