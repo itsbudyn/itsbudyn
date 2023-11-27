@@ -12,6 +12,7 @@
   - Discord: itsbudyn
   - E-Mail: itsbudyn@proton.me
 ---
+![](https://komarev.com/ghpvc/?itsbudyn&style=for-the-badge)  
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=itsbudyn&show_icons=true&theme=merko" />
 </a>
