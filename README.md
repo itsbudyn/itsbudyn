@@ -16,7 +16,7 @@
 ### 🖥️ Stack:
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=c,cpp,py,bots,postman,git,github,vim,vscode,linux" />
+    <img src="https://skillicons.dev/icons?i=c,cpp,py,bots,postman,git,github,vim,visualstudio,vscode,linux" />
   </a>
 </p>
 
