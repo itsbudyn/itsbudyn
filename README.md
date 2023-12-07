@@ -7,7 +7,10 @@
 ### ⌨️ I code in:
   - Python
     - discord.py
-  - C++
+  - C/C++
+
+### 🤔 Learning (trying to learn):
+  - RegEx
 
 ### 📫 Reach me:
   - Discord: itsbudyn
