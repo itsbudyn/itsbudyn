@@ -1,7 +1,7 @@
 # 👋 Hello!
 
 ### I’m @itsbudyn  
-🎓 Final year Data Security Student (B. Eng.) at [Wrocław University of Science and Technology](https://pwr.edu.pl)  
+🎓 Data Security Engineer, graduated at [Wrocław University of Science and Technology](https://pwr.edu.pl)  
 🌐 Spoken languages: 🇵🇱 🇬🇧
 
 ### ⌨️ I code in:
