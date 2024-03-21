@@ -1,7 +1,7 @@
 # 👋 Hello!
 
 ### I’m @itsbudyn  
-🎓 Data Security Engineer, currently a Master's student at [Wrocław University of Science and Technology](https://pwr.edu.pl)  
+🎓 B. Eng. in Data Security, currently a Master's student at [Wrocław University of Science and Technology](https://pwr.edu.pl)  
 🌐 Spoken languages: 🇵🇱 🇬🇧
 
 ### ⌨️ I code in:
