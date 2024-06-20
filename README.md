@@ -9,9 +9,6 @@
     - discord.py
   - C/C++
 
-### 🤔 Learning (trying to learn):
-  - RegEx
-
 ### 📫 Reach me:
   - Discord: itsbudyn
   - E-Mail: itsbudyn@proton.me
