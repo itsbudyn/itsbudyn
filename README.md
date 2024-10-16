@@ -4,7 +4,7 @@
 - 🎓 B. Eng. in Cybersecurity, specialized in Data Security. Continuing in the same field as a Master's Student at [Wrocław University of Science and Technology](https://pwr.edu.pl)
 - ⌨️ Coding as a hobby, non-professionally at the moment
 - 🌐 Spoken languages: 🇵🇱 🇬🇧
-- 
+
 ### ⌨️ I code in (+ how I'd describe myself)
   - Python - (Mid level)
   - C/C++ - (Junior-Mid level)
@@ -30,10 +30,10 @@
 ### 📈 Stats
 <p align="center">
   <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img height=300 align="center" src="https://github-readme-stats.vercel.app/api?username=itsbudyn&show_icons=true&theme=tokyonight&include_all_commits=true&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage" />
+    <img height=250 align="center" src="https://github-readme-stats.vercel.app/api?username=itsbudyn&show_icons=true&theme=tokyonight&include_all_commits=true&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage" />
   </a>
   <a href="https://github.com/anuraghazra/convoychat">
-    <img height=300 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=itsbudyn&layout=donut&theme=tokyonight" />
+    <img height=250 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=itsbudyn&layout=donut&theme=tokyonight" />
   </a>
 </p>
 <p align="center">
