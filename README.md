@@ -17,7 +17,7 @@
 ### 🖥️ Stack
 <p align="center">
   <a href="https://github.com/LelouchFR/skill-icons">
-    <img src="https://go-skill-icons.vercel.app/api/icons?i=c,cpp,py,discordbots,postman,git,github,vim,obsidian,visualstudio,vscode,linux,ubuntu,kde,windows,virtualbox,vmwareworkstation,terminal,ffmpeg,gimp,firefox&titles=true&perline=21" />
+    <img src="https://go-skill-icons.vercel.app/api/icons?i=c,cpp,py,discordbots,postman,git,github,vim,md,obsidian,visualstudio,vscode,linux,ubuntu,kde,windows,android,virtualbox,vmwareworkstation,terminal,ffmpeg,gimp,firefox&titles=true&perline=23" />
   </a>
 </p>
 
