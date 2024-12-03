@@ -15,9 +15,24 @@
 </p>
 
 ### 🖥️ Stack
+- **Languages and frameworks**
 <p align="center">
   <a href="https://github.com/LelouchFR/skill-icons">
-    <img src="https://go-skill-icons.vercel.app/api/icons?i=c,cpp,py,discordbots,postman,git,github,vim,md,obsidian,visualstudio,vscode,linux,ubuntu,kde,windows,android,virtualbox,vmwareworkstation,terminal,ffmpeg,gimp,firefox&titles=true&perline=23" />
+    <img src="https://go-skill-icons.vercel.app/api/icons?i=c,cpp,py,discordbots,md&titles=true&perline=23" />
+  </a>
+</p>
+
+- **Tools**
+<p align="center">
+  <a href="https://github.com/LelouchFR/skill-icons">
+    <img src="https://go-skill-icons.vercel.app/api/icons?i=postman,git,github,vim,obsidian,visualstudio,vscode,virtualbox,vmwareworkstation,terminal,ffmpeg,gimp,firefox&titles=true&perline=23" />
+  </a>
+</p>
+
+- **OS**
+<p align="center">
+  <a href="https://github.com/LelouchFR/skill-icons">
+    <img src="https://go-skill-icons.vercel.app/api/icons?i=linux,ubuntu,kde,windows,android&titles=true&perline=23" />
   </a>
 </p>
 
