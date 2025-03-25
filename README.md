@@ -1,16 +1,61 @@
-## Hi there 👋
+# 👋 Hello!
 
-<!--
-**itsbudyn/itsbudyn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### I’m @itsbudyn 
+- 🎓 B. Eng. in Cybersecurity, specialized in Data Security. Continuing in the same field as a Master's Student at [Wrocław University of Science and Technology](https://pwr.edu.pl)
+- ⌨️ Coding as a hobby, non-professionally at the moment
+- 🌐 Spoken languages: 🇵🇱 🇬🇧
 
-Here are some ideas to get you started:
+### ⌨️ I code in (+ how I'd describe myself)
+  - Python - (Mid level)
+  - C/C++ - (Junior-Mid level)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 📫 Reach me
+<p>
+  <img src="https://img.shields.io/badge/@itsbudyn-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white" /><img src="https://img.shields.io/badge/itsbudyn(at)proton.me-8B89CC?style=for-the-badge&logo=protonmail&logoColor=white">
+</p>
+
+### 🖥️ Stack
+- **Languages and frameworks**
+<p align="center">
+  <a href="https://github.com/LelouchFR/skill-icons">
+    <img src="https://go-skill-icons.vercel.app/api/icons?i=c,cpp,py,discordbots,md&titles=true&perline=23" />
+  </a>
+</p>
+
+- **Tools**
+<p align="center">
+  <a href="https://github.com/LelouchFR/skill-icons">
+    <img src="https://go-skill-icons.vercel.app/api/icons?i=postman,git,github,vim,obsidian,visualstudio,vscode,virtualbox,vmwareworkstation,terminal,ffmpeg,gimp,firefox&titles=true&perline=23" />
+  </a>
+</p>
+
+- **OS**
+<p align="center">
+  <a href="https://github.com/LelouchFR/skill-icons">
+    <img src="https://go-skill-icons.vercel.app/api/icons?i=linux,ubuntu,kde,windows,android&titles=true&perline=23" />
+  </a>
+</p>
+
+### 🔗 Other profiles
+- [LeetCode](https://leetcode.com/u/itsbudyn/)
+- [CodeWars](https://www.codewars.com/users/itsbudyn) <a href="https://www.codewars.com/users/itsbudyn/"> <img align="center" src="https://www.codewars.com/users/itsbudyn/badges/micro" /> </a>
+
+----
+
+### 📈 Stats
+<p align="center">
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img height=250 align="center" src="https://github-readme-stats.vercel.app/api?username=itsbudyn&show_icons=true&theme=tokyonight&include_all_commits=true&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage" />
+  </a>
+  <a href="https://github.com/anuraghazra/convoychat">
+    <img height=250 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=itsbudyn&layout=donut&theme=tokyonight" />
+  </a>
+</p>
+<p align="center">
+  <img align="center" src="https://komarev.com/ghpvc/?username=itsbudyn&color=green&style=for-the-badge" />
+</p>
+
+<!---
+itsbudyn/itsbudyn is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+You can click the Preview link to take a look at your changes.
+--->
