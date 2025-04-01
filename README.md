@@ -42,6 +42,7 @@
 
 ----
 
+<!---
 ### 📈 Stats
 <p align="center">
   <a href="https://github.com/anuraghazra/github-readme-stats">
@@ -54,6 +55,7 @@
 <p align="center">
   <img align="center" src="https://komarev.com/ghpvc/?username=itsbudyn&color=green&style=for-the-badge" />
 </p>
+--->
 
 <!---
 itsbudyn/itsbudyn is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
