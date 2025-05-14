@@ -32,7 +32,7 @@
 - **OS**
 <p align="center">
   <a href="https://github.com/LelouchFR/skill-icons">
-    <img src="https://go-skill-icons.vercel.app/api/icons?i=linux,ubuntu,kde,windows,android&titles=true&perline=23" />
+    <img src="https://go-skill-icons.vercel.app/api/icons?i=linux,fedora,kde,windows,android&titles=true&perline=23" />
   </a>
 </p>
 
