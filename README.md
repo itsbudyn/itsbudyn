@@ -6,8 +6,8 @@
 - 🌐 Spoken languages: 🇵🇱 🇬🇧
 
 ### ⌨️ I code in (+ how I'd describe myself)
-  - Python - (Mid level)
-  - C/C++ - (Junior-Mid level)
+  - Python - (Junior-Mid level)
+  - C/C++ - (Junior level)
 
 ### 📫 Reach me
 <p>
