@@ -1,7 +1,7 @@
 # 👋 Hello!
 
 ### I’m @itsbudyn 
-- 🎓 B. Eng. in Cybersecurity, specialized in Data Security. Continuing in the same field as a Master's Student at [Wrocław University of Science and Technology](https://pwr.edu.pl)
+- 🎓 M. Eng. in Cybersecurity @ [Wrocław University of Science and Technology](https://pwr.edu.pl)
 - ⌨️ Coding as a hobby, non-professionally at the moment
 - 🌐 Spoken languages: 🇵🇱 🇬🇧
 
